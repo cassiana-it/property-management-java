@@ -77,6 +77,17 @@ The application uses JavaFX layouts:
 
 ---
 
+## Screenshots
+
+### Main Interface
+![Main Screen](images/main-screen.png)
+
+### Adding a Property
+![Add Property](images/adding-property.png)
+
+### Cheapest Property
+![View All](images/cheapest-property.png)
+
 ## Author
 
 Cassiana de Oliveira
